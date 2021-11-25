@@ -1,0 +1,21 @@
+com/android/BLE/Device/SampleGattAttributes.java
+ com.android.BLE.Device.SampleGattAttributes
+com/android/BLE/Device/BluetoothLeService.java
+ com.android.BLE.Device.BluetoothLeService
+ com.android.BLE.Device.BluetoothLeService$1
+ com.android.BLE.Device.BluetoothLeService$LocalBinder
+com/android/BLE/Device/BuildConfig.java
+ com.android.BLE.Device.BuildConfig
+com/android/BLE/Device/DeviceControlActivity.java
+ com.android.BLE.Device.DeviceControlActivity
+ com.android.BLE.Device.DeviceControlActivity$1
+ com.android.BLE.Device.DeviceControlActivity$2
+ com.android.BLE.Device.DeviceControlActivity$3
+ com.android.BLE.Device.DeviceControlActivity$4
+com/android/BLE/Device/DeviceScanActivity.java
+ com.android.BLE.Device.DeviceScanActivity
+ com.android.BLE.Device.DeviceScanActivity$1
+ com.android.BLE.Device.DeviceScanActivity$2
+ com.android.BLE.Device.DeviceScanActivity$2$1
+ com.android.BLE.Device.DeviceScanActivity$LeDeviceListAdapter
+ com.android.BLE.Device.DeviceScanActivity$ViewHolder
