@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hwiminchoi/git/BLE_Project/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/Users/hwiminchoi/git/BLE_Beacon_master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/Users/hwiminchoi/.gradle/caches/transforms-3/03b19ec364e0cc2a106816651005d22a/transformed/core-1.0.0/res/values-en-rGB/values-en-rGB.xml",

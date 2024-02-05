@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hwiminchoi/git/BLE_Project/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/Users/hwiminchoi/git/BLE_Beacon_master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/Users/hwiminchoi/git/BLE_Project/Application/src/main/res/values-v11/template-styles.xml",
+                    "source": "/Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/res/values-v11/template-styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

@@ -298,8 +298,9 @@ public class DeviceScanActivity extends ListActivity {
                 public void run() {
                     int major = ((scanRecord[25] & 0xff) << 8) | (scanRecord[26] & 0xff);
                     int minor = ((scanRecord[27] & 0xff) << 8) | (scanRecord[28] & 0xff);
-
-                    if((device.getName() != null) && (minor == 45011)) {
+                    Log.d("Test", "Run test");
+                    //if((device.getName() != null) && (minor == 45011)) {
+                    if(true) {
                         Log.d("device","scan device name : "+device.getName());
                             if(mDevRssiValues.containsKey(device.getAddress())){
                                 Log.d("device","refresh rssi - " + device.getName());

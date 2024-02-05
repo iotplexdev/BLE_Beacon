@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLE_Project.iml" filepath="$PROJECT_DIR$/.idea/modules/BLE_Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Project.Application.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLE_Beacon_master.iml" filepath="$PROJECT_DIR$/.idea/modules/BLE_Beacon_master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLE_Beacon_master.Application.unitTest.iml" />
     </modules>
   </component>
 </project>

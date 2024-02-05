@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hwiminchoi/git/BLE_Project/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "/Users/hwiminchoi/git/BLE_Beacon_master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "/Users/hwiminchoi/.gradle/caches/transforms-3/b7b6e2a00503aa952fe604af322fecf3/transformed/appcompat-1.0.0/res/values-en-rIN/values-en-rIN.xml",

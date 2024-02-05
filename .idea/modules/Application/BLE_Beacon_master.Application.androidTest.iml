@@ -24,9 +24,9 @@
     <content url="file://$MODULE_DIR$/../../../Application/build/generated/source/buildConfig/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../Application/src/androidTestDebug" />
     <content url="file://$MODULE_DIR$/../../../Application/tests" />
-    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="BLE_Project.Application.main" scope="TEST" />
+    <orderEntry type="module" module-name="BLE_Beacon_master.Application.main" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-v13:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-v4:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
@@ -62,5 +62,5 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.0.0" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="BLE_Project.Application.main" />
+  <component name="TestModuleProperties" production-module="BLE_Beacon_master.Application.main" />
 </module>

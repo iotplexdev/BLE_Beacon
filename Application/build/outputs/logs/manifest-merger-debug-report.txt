@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:1-33:12
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:1-33:12
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:1-33:12
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:1-33:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/1ec89cbc0ab7c8edcde415f0dab626cf/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/ba617176542b04e4371872983ca8d3ea/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b46b5883d688a0d38b6806347bce08f7/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b7b6e2a00503aa952fe604af322fecf3/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/98c519fb38564824f0061c8906127e24/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/c1ddeaeb9f7cf8a086652f8022665b47/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b6534ced36e0c19a2a40fc9e625acbc1/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/216aab4417619bae103dbd3e29f14cb0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/59e7eb0eb6941443c0d4c213540db25a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b4cbc481aa2373e21ceb1ae8193009a3/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/8c4e9c8fa89e2238233fafba4478a312/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/61ce494095e259c621699072dd0c1344/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/1124b94b477c78dc70b6cd76c6365bfa/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/5c66f745d29374bfe6874b39d7840db7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/c0a504faf54674fbe71b0363601068d4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/ce8c677b741085f0d6334d5528ccfe83/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/268edfd89a20bf3017997a19ae3677ec/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/afad7708f1c2863211efa85546fe3e43/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/03b19ec364e0cc2a106816651005d22a/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/56e5d32a843572af8f8de13d3ce29105/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/aa4df78c5efe590bbf517db253e60295/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/029b4767abc27e1e5e8bdd6fe7055794/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/17a45ac3682691d1439a0e165c596c2c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/20419aed3d57f34b76f55aa4c3cba5d2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/dfe183fd3fc7b48f4a8eabb7cc58641f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/a0ff7fce331c348e8dbfcf4045c9b4f7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/52b96a888003a7afc1d16ca9c2e92cb4/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/0486edcad919b74485852fd9bf32cf08/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/f4dfa5d9f74cc5626323bedc38898849/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/77c4cf8dd752d3d4256b218ebc846fad/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:1-33:12
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:1-33:12
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:1-33:12
+	package
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:8:5-89
+	android:required
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:8:64-87
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:8:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:16:22-70
+application
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:18:5-31:19
+MERGED from [androidx.core:core:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/03b19ec364e0cc2a106816651005d22a/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/03b19ec364e0cc2a106816651005d22a/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/56e5d32a843572af8f8de13d3ce29105/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/56e5d32a843572af8f8de13d3ce29105/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/03b19ec364e0cc2a106816651005d22a/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:18:18-50
+	android:icon
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:20:9-40
+activity#com.android.BLE.Device.DeviceScanActivity
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:21:9-28:20
+	android:label
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:22:13-45
+	android:exported
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:21:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:26:27-74
+activity#com.android.BLE.Device.DeviceControlActivity
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:29:19-56
+service#com.android.BLE.Device.BluetoothLeService
+ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:30:9-77
+	android:enabled
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:30:53-75
+	android:name
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml:30:18-52
+uses-sdk
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/1ec89cbc0ab7c8edcde415f0dab626cf/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/1ec89cbc0ab7c8edcde415f0dab626cf/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/ba617176542b04e4371872983ca8d3ea/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/ba617176542b04e4371872983ca8d3ea/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b46b5883d688a0d38b6806347bce08f7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b46b5883d688a0d38b6806347bce08f7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b7b6e2a00503aa952fe604af322fecf3/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b7b6e2a00503aa952fe604af322fecf3/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/98c519fb38564824f0061c8906127e24/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/98c519fb38564824f0061c8906127e24/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/c1ddeaeb9f7cf8a086652f8022665b47/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/c1ddeaeb9f7cf8a086652f8022665b47/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b6534ced36e0c19a2a40fc9e625acbc1/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b6534ced36e0c19a2a40fc9e625acbc1/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/216aab4417619bae103dbd3e29f14cb0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/216aab4417619bae103dbd3e29f14cb0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/59e7eb0eb6941443c0d4c213540db25a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/59e7eb0eb6941443c0d4c213540db25a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b4cbc481aa2373e21ceb1ae8193009a3/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/b4cbc481aa2373e21ceb1ae8193009a3/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/8c4e9c8fa89e2238233fafba4478a312/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/8c4e9c8fa89e2238233fafba4478a312/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/61ce494095e259c621699072dd0c1344/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/61ce494095e259c621699072dd0c1344/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/1124b94b477c78dc70b6cd76c6365bfa/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/1124b94b477c78dc70b6cd76c6365bfa/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/5c66f745d29374bfe6874b39d7840db7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/5c66f745d29374bfe6874b39d7840db7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/c0a504faf54674fbe71b0363601068d4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/c0a504faf54674fbe71b0363601068d4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/ce8c677b741085f0d6334d5528ccfe83/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/ce8c677b741085f0d6334d5528ccfe83/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/268edfd89a20bf3017997a19ae3677ec/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/268edfd89a20bf3017997a19ae3677ec/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/afad7708f1c2863211efa85546fe3e43/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/afad7708f1c2863211efa85546fe3e43/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/03b19ec364e0cc2a106816651005d22a/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/03b19ec364e0cc2a106816651005d22a/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/56e5d32a843572af8f8de13d3ce29105/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/56e5d32a843572af8f8de13d3ce29105/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/aa4df78c5efe590bbf517db253e60295/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/aa4df78c5efe590bbf517db253e60295/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/029b4767abc27e1e5e8bdd6fe7055794/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/029b4767abc27e1e5e8bdd6fe7055794/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/17a45ac3682691d1439a0e165c596c2c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/17a45ac3682691d1439a0e165c596c2c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/20419aed3d57f34b76f55aa4c3cba5d2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/20419aed3d57f34b76f55aa4c3cba5d2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/dfe183fd3fc7b48f4a8eabb7cc58641f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/dfe183fd3fc7b48f4a8eabb7cc58641f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/a0ff7fce331c348e8dbfcf4045c9b4f7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/a0ff7fce331c348e8dbfcf4045c9b4f7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/52b96a888003a7afc1d16ca9c2e92cb4/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/52b96a888003a7afc1d16ca9c2e92cb4/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/0486edcad919b74485852fd9bf32cf08/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/0486edcad919b74485852fd9bf32cf08/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/f4dfa5d9f74cc5626323bedc38898849/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/f4dfa5d9f74cc5626323bedc38898849/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/77c4cf8dd752d3d4256b218ebc846fad/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hwiminchoi/.gradle/caches/transforms-3/77c4cf8dd752d3d4256b218ebc846fad/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/AndroidManifest.xml

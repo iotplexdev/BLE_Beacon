@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hwiminchoi/git/BLE_Project/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/hwiminchoi/git/BLE_Beacon_master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
+                {
+                    "source": "/Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "656,724",
+                        "endColumns": "67,67",
+                        "endOffsets": "719,787"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,679",
+                        "endColumns": "67,67",
+                        "endOffsets": "674,742"
+                    }
+                },
                 {
                     "source": "/Users/hwiminchoi/.gradle/caches/transforms-3/b7b6e2a00503aa952fe604af322fecf3/transformed/appcompat-1.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
@@ -14,7 +31,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hwiminchoi/git/BLE_Project/Application/src/main/res/values-sw600dp/template-styles.xml",
+                    "source": "/Users/hwiminchoi/git/BLE_Beacon_master/Application/src/main/res/values-sw600dp/template-styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
@@ -30,23 +47,6 @@
                         "endLines": "16",
                         "endColumns": "12",
                         "endOffsets": "987"
-                    }
-                },
-                {
-                    "source": "/Users/hwiminchoi/git/BLE_Project/Application/src/main/res/values-sw600dp/template-dimens.xml",
-                    "from": {
-                        "startLines": "20,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "656,724",
-                        "endColumns": "67,67",
-                        "endOffsets": "719,787"
-                    },
-                    "to": {
-                        "startLines": "10,11",
-                        "startColumns": "4,4",
-                        "startOffsets": "611,679",
-                        "endColumns": "67,67",
-                        "endOffsets": "674,742"
                     }
                 }
             ]
